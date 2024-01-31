@@ -1,3 +1,4 @@
 # Games
 1. Snake
-2. Connectfour
+2. Pong
+3. Connectfour
